@@ -11,6 +11,8 @@ const columns = [
     type: 'number',
     width: 90,
   },
+
+  
   {
     field: 'fullName',
     headerName: 'Full name',
