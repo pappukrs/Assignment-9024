@@ -1,0 +1,28 @@
+
+.Navbar{
+background-color: brown;
+}
+.navletter{
+    display: inline-block;
+    color: aqua;
+}
+.navsearch{
+    display: inline-block;
+}
+.input{
+    width:354px;
+    height:32px;
+   
+}
+.navnot{
+    display: inline-block;
+}
+.navname{
+    display: inline-block;
+}
+.navicon{
+    display: inline-block;
+}
+.navdown{
+    display: inline-block;
+}

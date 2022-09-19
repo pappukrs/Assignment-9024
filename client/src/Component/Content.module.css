@@ -1,0 +1,16 @@
+.content{
+    display:flex;
+
+}
+.contentLeft{
+    flex:1;
+
+}
+.contentRight{
+    flex:7;
+}
+
+.headerRight{
+    display:flex;
+    flex-direction: space-between;
+}
